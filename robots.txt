@@ -1,0 +1,4 @@
+Sitemap: http://indramahkota.info/sitemap.xml
+
+User-agent: *
+Disallow:
