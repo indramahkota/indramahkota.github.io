@@ -1,0 +1,74 @@
+{
+  "icons": [
+    {
+      "src": "/static/icons/icon_512x512.2574350e0fd2a44c896e4c32cc980237.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/static/icons/icon_384x384.730afdb5bccd8c772c70186228f97241.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/icons/icon_256x256.56f8898604c0d4ecdc372c03831a013f.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/icons/icon_192x192.0e21d9ab90bb2f9c11547c71b2e5c1ec.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/icons/icon_180x180.2197a296182907ee9c36dcdbd665d56c.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/icons/icon_152x152.438f03fbd9dc6f087fc1e3c1acb133cc.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/icons/icon_144x144.a7089c2726b41f9f6feba6d3beacbfa7.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/icons/icon_120x120.040a6ea45340c08c57d9719b71201beb.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/icons/icon_96x96.f6dd2f9edbba15a7cfb2d05b72ba0df3.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/icons/icon_76x76.29aaff9655745933fa56f284f4f7e356.png",
+      "sizes": "76x76",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/icons/icon_72x72.ca29c328ffa11de49e458beb685c74de.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/icons/icon_57x57.a733d1593864fc2ccdaa056295954aa7.png",
+      "sizes": "57x57",
+      "type": "image/png"
+    }
+  ],
+  "name": "Indra Mahkota",
+  "short_name": "Indra",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "description": "A passionate Software Developer, having an Experience working at Telco company and some software house company.",
+  "gcm_sender_id": "792532488211",
+  "background_color": "#FFFFFF",
+  "theme_color": "#F6CD61"
+}
