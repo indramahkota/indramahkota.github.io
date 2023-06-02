@@ -1,0 +1,1 @@
+{"version":3,"file":"inProfile.d.ts","sourceRoot":"","sources":["../../../../../libs/components/in-profile/inProfile.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,kBAAkB,EAAE,WAAW,EAAE,MAAM,iBAAiB,CAAC;AAClE,OAAO,EAAQ,aAAa,EAAE,MAAM,UAAU,CAAC;;AAK/C,MAAM,CAAC,OAAO,OAAO,SAAU,SAAQ,cAAmB;IAGxD,IAAI,EAAE,WAAW,GAAG,SAAS,CAAC;IAE9B,WAAW,EAAE,kBAAkB,EAAE,CAAM;IAEvC,MAAM;CAwBP"}
