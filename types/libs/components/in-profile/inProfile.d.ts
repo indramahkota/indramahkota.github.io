@@ -4,7 +4,7 @@ declare const InProfile_base: (new (...args: any[]) => import("../base/mixins/ca
 export default class InProfile extends InProfile_base {
     user: InUserModel | undefined;
     socialMedia: InSocialMediaModel[];
-    render(): import("lit").TemplateResult;
+    render(): import("lit-html").TemplateResult;
 }
 export {};
 //# sourceMappingURL=inProfile.d.ts.map

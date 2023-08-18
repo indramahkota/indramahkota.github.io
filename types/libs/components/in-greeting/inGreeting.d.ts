@@ -3,7 +3,7 @@ declare const InGreeting_base: (new (...args: any[]) => import("../base/mixins/c
 export default class InGreeting extends InGreeting_base {
     greeting: string;
     description: string;
-    render(): import("lit").TemplateResult;
+    render(): import("lit-html").TemplateResult;
 }
 export {};
 //# sourceMappingURL=inGreeting.d.ts.map
