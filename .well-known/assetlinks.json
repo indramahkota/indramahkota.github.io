@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.project.cp.camera.debug",
+      "sha256_cert_fingerprints": [
+        "EC:EC:FA:AD:3C:4D:44:60:DC:ED:C9:7A:35:9D:63:96:0F:09:D7:02:67:D9:90:B0:22:CD:9B:73:39:63:24:E9"
+      ]
+    }
+  }
+]
